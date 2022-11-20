@@ -1,4 +1,4 @@
-# BMSL  BOOKS MONITORING SOFTWARE FOR LIBRARIES
+# BOOKS MONITORING SOFTWARE FOR LIBRARIES (BMSL)
 Our idea is related to the library, because we believe that the library is the back bone of the university, in this idea we have thought of keeping the Books Monitoring System for Libraries (BMSL) under the university utility software.
 
 Under this there will be an smsl window which will have information about all department wise books of the university. Students and staff will have login details so that they will be able to check library stock through their account.
